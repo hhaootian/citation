@@ -1,0 +1,2 @@
+- Cava, J.K., Shukla, A., Vant, J.W., Karmaker, S.K., Turaga, P.K., Maciejewski, R. and Singharoy, A., Latent Sequence Generation of Steered Molecular Dynamics. In ICLR 2023 Workshop on Physics for Machine Learning. 
+> The main motivation in creating this two stage deep learning approach is to mimic work done by Tian et al. (2022) in which a MLP autoencoder was used to sample outlier frames to be used as seeds for further MD simulations. This has been shown to be more efficient than sampling through MD alone.

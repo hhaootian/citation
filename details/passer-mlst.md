@@ -50,3 +50,5 @@ Turzo, S.B.A., Hantz, E.R. and Lindert, S., 2022. Applications of machine learni
 - Srivastava, P. and Jain, C.K., 2022. In-Silico Investigation of Plant-Derived Natural Allosteric Compounds Towards Enhanced Drug-Protein Interaction of MOA Protein Complex in Depression Based on Molecular Docking and Molecular Dynamic Simulation Approaches. Current Trends in Biotechnology and Pharmacy, 16(4), pp.529-539.
 > The  chemical  allosteric compound  (ID  ASD01720151,)  was  retrieved from  the  Allosteric  database  (ASD)  through  virtual screening and docked at the predicted allosteric  site  by  PASSER  computational  tool where the best docking/ interaction energy was found  -11.8  kcal/mol. 
 
+- Latosińska, J.N., Latosińska, M., Seliger, J., Žagar, V., Apih, T. and Grieb, P., 2023. Elucidating the Role of Noncovalent Interactions in Favipiravir, a Drug Active against Various Human RNA Viruses; a 1H-14N NQDR/Periodic DFT/QTAIM/RDS/3D Hirshfeld Surfaces Combined Study. Molecules, 28(8), p.3308.
+> The allosteric sites in 7AAP were detected with Allosite-Pro [57] and PASSer [58] using a scheme [59,60].

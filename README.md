@@ -17,7 +17,7 @@ Last Update: Apr 9, 2023
 -> Total citation: 1;
 
 - Tian, H., Jiang, X., Xiao, S., La Force, H., Larson, E.C. and Tao, P., 2022. LAST: Latent Space-Assisted Adaptive Sampling for Protein Trajectories. Journal of Chemical Information and Modeling, 63(1), pp.67-75. <br>
--> Total citation: 1;
+-> Total citation: 2; &emsp; [notable citations](details/last-jcim.md)
 
 - Tian, H., Ketkar, R. and Tao, P., 2022. ADMETboost: a web server for accurate ADMET prediction. Journal of Molecular Modeling, 28(12), pp.1-6. <br>
 -> Total citation: 2;
@@ -35,13 +35,13 @@ Last Update: Apr 9, 2023
 -> Total citation: 8; &emsp; [notable citations](details/covid-jbsd.md)
 
 - Tian, H., Jiang, X., Trozzi, F., Xiao, S., Larson, E.C. and Tao, P., 2021. Explore protein conformational space with variational autoencoder. Frontiers in molecular biosciences, 8, p.781635. <br>
--> Total citation: 15; &emsp; [notable citations](details/vae-frontier.md)
+-> Total citation: 16; &emsp; [notable citations](details/vae-frontier.md)
 
 - Tian, H., Jiang, X. and Tao, P., 2021. PASSer: Prediction of allosteric sites server. Machine learning: science and technology, 2(3), p.035015. <br>
--> Total citation: 26; &emsp; [notable citations](details/passer-mlst.md)
+-> Total citation: 27; &emsp; [notable citations](details/passer-mlst.md)
 
 - Song, Z., Zhou, H., Tian, H., Wang, X. and Tao, P., 2020. Unraveling the energetic significance of chemical events in enzyme catalysis via machine-learning based regression approach. Communications Chemistry, 3(1), p.134. <br>
--> Total citation: 12; &emsp; [notable citations](details/enzyme-comm.md)
+-> Total citation: 13; &emsp; [notable citations](details/enzyme-comm.md)
 
 - Tian, H., Trozzi, F., Zoltowski, B.D. and Tao, P., 2020. Deciphering the allosteric process of the Phaeodactylum tricornutum Aureochrome 1a LOV domain. The Journal of Physical Chemistry B, 124(41), pp.8960-8972. <br>
 -> Total citation: 18; &emsp; [notable citations](details/ptau1a-jpcb.md)
