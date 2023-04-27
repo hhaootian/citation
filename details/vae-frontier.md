@@ -30,3 +30,6 @@
 
 - Zhu, J.J., Zhang, N.J., Wei, T. and Chen, H.F., 2023. Enhancing Conformational Sampling for Intrinsically Disordered and Ordered Proteins by Variational Autoencoder. International Journal of Molecular Sciences, 24(8), p.6896.
 > By transforming the Cartesian coordinates of three-dimensional conformations into low-dimensional vectors, neural network models can be trained to generate the latent space from which new three-dimensional conformations can be sampled at a relatively low computational cost [11]. 
+
+- Ziegler, C., Martin, J., Sinner, C. and Morcos, F., 2023. Latent generative landscapes as maps of functional diversity in protein sequence space. Nature Communications, 14(1), p.2222.
+> Since VAEs approximate a posterior distribution, they are powerful tools to cluster data in a latent space and have become a popular replacement for principal component analysis (PCA). Their performance is proven to be comparable with robust PCA models41 and has been employed on biological data sets with favorable results.

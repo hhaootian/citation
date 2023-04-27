@@ -52,3 +52,7 @@ Turzo, S.B.A., Hantz, E.R. and Lindert, S., 2022. Applications of machine learni
 
 - Latosińska, J.N., Latosińska, M., Seliger, J., Žagar, V., Apih, T. and Grieb, P., 2023. Elucidating the Role of Noncovalent Interactions in Favipiravir, a Drug Active against Various Human RNA Viruses; a 1H-14N NQDR/Periodic DFT/QTAIM/RDS/3D Hirshfeld Surfaces Combined Study. Molecules, 28(8), p.3308.
 > The allosteric sites in 7AAP were detected with Allosite-Pro [57] and PASSer [58] using a scheme [59,60].
+
+- Verkhivker, G., Alshahrani, M., Gupta, G., Xiao, S. and Tao, P., 2023. From Deep Mutational Mapping of Allosteric Protein Landscapes to Deep Learning of Allostery and Hidden Allosteric Sites: Zooming in on “Allosteric Intersection” of Biochemical and Big Data Approaches. International Journal of Molecular Sciences, 24(9), p.7747.
+> An ensemble learning method combining eXtreme gradient boosting (XGBoost) and graph convolutional neural networks (GCNNs), and an automated machine learning method (AutoGluon and AutoKeras) was developed to predict plausible allosteric sites and both models were incorporated to Prediction of Allosteric Sites Server (PASSer). 
+
